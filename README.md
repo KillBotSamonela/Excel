@@ -17,6 +17,9 @@ FALSO → procura valor exato.
 
 VERDADEIRO → procura valor aproximado (menos usado).
 
+O CONT.SES também é muito usado no Excel.
+Ele serve para contar quantas células atendem a dois ou mais critérios ao mesmo tempo.
+
 intervalo1 → onde vai procurar o critério1.
 
 critério1 → a condição que precisa ser atendida.
