@@ -1,4 +1,4 @@
-# Excel
+Projeto de excel comando básicos, arquivo (restaurante1)
 Códigos básicos de excel
 O =PROCV no Excel serve para procurar um valor em uma tabela e trazer um resultado que esteja na mesma linha desse valor.
  O nome significa PROcura Vertical, porque ele pesquisa na coluna de cima para baixo.
