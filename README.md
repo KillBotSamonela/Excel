@@ -11,4 +11,4 @@ Atividade 5 - Exportação de municípios e UF
 Ativadade 6 - Desenvolvimento de uma função reta usando informações de uma venda de sorvete conforme a temperatura 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4b751bea-b9a7-4f09-a249-a9d509aab23c" />
 Atividade 7 - Criar uma regressão linear por meio do Excel.
-<img width="1324" height="727" alt="510757337-4a926fa8-dde6-4091-b096-619cab48feda" src="https://github.com/user-attachments/assets/b3f39f01-7ef1-4e03-9e93-16ec5520a627" />
+<img width="1277" height="701" alt="514498640-67dd545b-c14e-4d6a-8f09-23af3d557839" src="https://github.com/user-attachments/assets/0077c0fc-039a-46e9-bb4b-7dc610b01de9" />
